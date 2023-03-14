@@ -34,10 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Astro](https://astro.build/) - JS library
 
 ### What I learned
-
 Honestly not much with this project. It was a good warmup for future projects though.
-
 ## Author
-
 - Frontend Mentor - [@jjpods](https://www.frontendmentor.io/profile/jjpods)
-
